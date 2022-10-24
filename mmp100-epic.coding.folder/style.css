@@ -1,0 +1,12 @@
+/*the dot means we're styling a class*/
+/*em means relative to default size*/
+.citation{
+font-size: .6em;
+}
+
+#spooky{
+    width: 600px;
+}
+.p{
+    font-size: 500px;
+}
