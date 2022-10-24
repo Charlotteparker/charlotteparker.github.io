@@ -1,0 +1,10 @@
+/*the dot means we're styling a class*/
+/*em means relative to default size*/
+/*<a href="page2.html">GOOD LUCK</a> info for for page 2*/
+.citation{
+font-size: .04em;
+}
+
+#haunted{
+    width: 603px;
+}
