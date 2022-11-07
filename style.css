@@ -1,0 +1,17 @@
+/*the dot means we're styling a class*/
+/*em means relative to default size*/
+/*<a href="page2.html"></a> info for for page 2*/
+/*file:///Users/charlotte/Documents/mmp100-epic.coding.folder/index.html link for correct site*/
+.citation{
+font-size: .00004em;
+}
+#haunted{
+    width: 603px;
+}
+
+.citation{
+font-size: .00004em; 
+}
+#scary{
+   width: 603px;
+}
